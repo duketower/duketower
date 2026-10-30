@@ -1,2 +1,2 @@
-# duke-tower
+# duketower
 Anurag's Portfolio
